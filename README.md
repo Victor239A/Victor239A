@@ -3,10 +3,10 @@
 <p>
   <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-675.gif" align="right" width="25%"/>
   <samp>
-    <h1>Hola Mundo</h1>
     <br>Soy un futuro desarrollador Web y creador de contenidos digitales.
     <br>Futuro ingeniero en sistemas
     <br>Me interesa el desarrollo de aplicaciones web.
+    <br>
     <br> <a href="github.com/Victor239A">github.com/Victor239A</a>
     </samp>
    <br>
