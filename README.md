@@ -6,7 +6,7 @@
     <br>Soy un futuro desarrollador Web y creador de contenidos digitales.
     <br>Futuro ingeniero en sistemas
     <br>Me interesa el desarrollo de aplicaciones web.
-     <p><a href="github.com/Victor239A" ></a></p>
+     <p><github.com/Victor239A</p>
     </samp>
    <br>
   <br>
