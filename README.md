@@ -10,8 +10,8 @@
     </samp>
    <br>
   <br>
-  <p align="center">
     <br>🔹 Conocimientos basicos en:
+  <p align="center">
     <samp>
       #html, #css, #git, #Java, #SQL, #BASH, #linux
      </samp>
