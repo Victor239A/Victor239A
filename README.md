@@ -6,7 +6,7 @@
     <br>Soy un futuro desarrollador Web y creador de contenidos digitales.
     <br>Futuro ingeniero en sistemas
     <br>Me interesa el desarrollo de aplicaciones web.
-    <br>
+    <br>Jugador profesional de Brawl Stars (tremendo fracasado)
     <br> <a href="github.com/Victor239A">github.com/Victor239A</a>
     </samp>
    <br>
