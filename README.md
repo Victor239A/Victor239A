@@ -1,7 +1,7 @@
 ### Hello World. I'm Victoor Jiménez .
 ---
 <p>
-  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-675.gif" align="right" width="15%"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-675.gif" align="right" width="35%"/>
   <samp>
     <br>Soy un futuro desarrollador Web y creador de contenidos digitales.
     <br>Futuro ingeniero en sistemas
