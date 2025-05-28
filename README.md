@@ -5,8 +5,8 @@
   <samp>
     <br>Soy un futuro desarrollador Web y creador de contenidos digitales.
     <br>Futuro ingeniero en sistemas
-    <br>🔹 Me interesa el desarrollo de aplicaciones web.
-     <a href="github.com/Victor239A" ></a>
+    <br>Me interesa el desarrollo de aplicaciones web.
+     <p><a href="github.com/Victor239A" ></a></p>
     </samp>
    <br>
   <br>
