@@ -11,6 +11,7 @@
    <br>
   <br>
   <p align="center">
+    <br>🔹 Conocimientos basicos en:
     <samp>
       #html, #css, #git, #Java, #SQL, #BASH, #linux
      </samp>
