@@ -10,10 +10,10 @@
     </samp>
    <br>
   <br>
-    <br>🔹 Conocimientos basicos en:
+    <br> Conocimientos basicos en:
   <p align="center">
     <samp>
-      #html, #css, #git, #Java, #SQL, #BASH, #linux
+#html, #css, #git, #Java, #SQL, #BASH, #linux
      </samp>
     <br>
   </p>
