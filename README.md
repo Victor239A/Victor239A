@@ -5,11 +5,12 @@
   <samp>
     <br>Quiero se en un futuro un desarrollador Web y creador de contenidos digitales.
     <br>Futuro ingeniero en sistemas.
-    <br>No soy el mejor en lo que hago pero por lo menos siempre lo intento.
     <br>Me interesa el desarrollo de aplicaciones web.
-    <br>Me gusta Html y Css 😌😂 (No soy el mejor pero tampoco el peor).
+    <br>No soy el mejor en lo que hago pero por lo menos siempre lo intento.
+    <br>Me gusta Html y Css 😌 (No soy el mejor pero tampoco el peor).
     <br>Jugador profesional de Brawl Stars (tremendo fracasado).
     <br>Ex Pro Player de Fornite (Earnings 0).
+    <br> Ex Arquitecto profesional (en Fortnite).
     <br>
     </samp>
    <br>
@@ -17,7 +18,7 @@
     <br> Conocimientos basicos en:
   <p align="center">
     <samp>
-#html, #css, #git, #Java, #SQL, #BASH, #linux
+#html, #css, #git, #GitHub, #Java, #SQL, #BASH, #linux
      </samp>
     <br>
   </p>
