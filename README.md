@@ -19,7 +19,7 @@
     <br> Conocimientos basicos en:
   <p align="center">
     <samp>
-#html, #css, #git, #GitHub, #Java, #SQL, #BASH, #linux
+#html | #css | #git | #GitHub | #Java | #SQL | #BASH | #linux
      </samp>
     <br>
   </p>
