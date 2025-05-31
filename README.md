@@ -11,7 +11,6 @@
     <br>Jugador profesional de Brawl Stars (tremendo fracasado).
     <br>Ex Pro Player de Fornite (Earnings 0).
     <br> Ex Arquitecto profesional (en Fortnite).
-    <br>Experto en fracasar.
     <br>
     </samp>
    <br>
